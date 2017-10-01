@@ -8,13 +8,13 @@
 
 ## Instrucciones
 
-Pregunta 1: las respuestas se detallan en el archivo Pregunta1.md.
+### Pregunta 1: las respuestas se detallan en el archivo Pregunta1.md.
 
 ***
 
-Pregunta 2:
+### Pregunta 2:
 
 ***
 
-Pregunta 3:
+### Pregunta 3:
 
