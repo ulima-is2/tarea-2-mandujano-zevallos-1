@@ -6,6 +6,4 @@
 | Ricardo Jesús Mandujano Nima  | 20100661  | Ricardo232 |
 | Jesús Ernesto Zevallos Reyna  | 20081939  | Breusio |
 
-***
-
 ## Instrucciones
