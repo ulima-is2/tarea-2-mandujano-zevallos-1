@@ -7,3 +7,14 @@
 | Jesús Ernesto Zevallos Reyna  | 20081939  | Breusio |
 
 ## Instrucciones
+
+Pregunta 1: las respuestas se detallan en el archivo Pregunta1.md.
+
+***
+
+Pregunta 2:
+
+***
+
+Pregunta 3:
+
