@@ -8,7 +8,7 @@
 
 ## Instrucciones
 
-### Pregunta 1: las respuestas se detallan en el archivo Pregunta1.md.
+### Pregunta 1: las respuestas se detallan en el archivo Pregunta 1.txt.
 
 ***
 
