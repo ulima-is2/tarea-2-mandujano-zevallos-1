@@ -1,16 +1,17 @@
-Pregunta 1: Elaborar un documento txt donde se explique 3 principios SOLID que usted considere que no se
-cumplen en el c骴igo entregado. Se recomienda seguir el formato markdown (ver referencias).
-
+##Pregunta 1: Elaborar un documento txt donde se explique 3 principios SOLID que usted considere que no se
+cumplen en el c贸digo entregado. Se recomienda seguir el formato markdown (ver referencias).
+
+
 a. Single Responsability (S):
 La clase ``` CinePlaneta ``` no esta respetando el principio de Single Responsability puesto que la funciones ``` guardar_entrada ```,
-``` listar_peliculas ``` y ``` listar_funciones ``` estan vinculadas entre ellas pero no est醤 enfocadas a realizar una funci髇
-鷑ica del cine, adem醩 que se crea m閠odos innecesarios, este situaci髇 tambi閚 se presenta con la clase ``` CineStark ```.
+``` listar_peliculas ``` y ``` listar_funciones ``` estan vinculadas entre ellas pero no est谩n enfocadas a realizar una funci贸n
+煤nica del cine, adem谩s que se crea m茅todos innecesarios, este situaci贸n tambi茅n se presenta con la clase ``` CineStark ```.
 
 b. Open Close (O):
-Tambi閚 se considera que no se ha cumplido con este principio ya que en caso se quisiera instanciar nuevas peliculas o funciones
-estar韆mos pr醕ticamente en la obligaci髇 de cambiar el c骴igo donde se crearian (clases ``` CinePlaneta ``` y ``` CineStark ```)
+Tambi茅n se considera que no se ha cumplido con este principio ya que en caso se quisiera instanciar nuevas peliculas o funciones
+estar铆amos pr谩cticamente en la obligaci贸n de cambiar el c贸digo donde se crearian (clases ``` CinePlaneta ``` y ``` CineStark ```)
 
-c. Inversi髇 de Dependencias (I):
+c. Inversi贸n de Dependencias (I):
 Este principio se esta incumpliendo tambien puesto que las clases Cineplaneta y CineStark dependen fuertemente de la clase Pelicula
-(se encuentra acoplados entre si), esta caracter韘tica de acoplamiento se puede mostrar cuando se instancia algun objeto de la clase
+(se encuentra acoplados entre si), esta caracter铆stica de acoplamiento se puede mostrar cuando se instancia algun objeto de la clase
 Pelicula en las clase Cine.
