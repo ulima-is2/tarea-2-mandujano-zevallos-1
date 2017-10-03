@@ -21,4 +21,4 @@ El archivo **.py** con las modificaciones se encuentra en **Pregunta 2.py**.
 ***
 
 ## Pregunta 3:
-El archivo **.py** se ubica en **Pregunta 3.py**.
+El archivo con **.py** SQLite se ubica en **Pregunta 3.py**.
