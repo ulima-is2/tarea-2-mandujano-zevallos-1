@@ -1,14 +1,14 @@
-Sustento de elecci髇 de patrones:
+### Sustento de elecci贸n de patrones:
 
-Patr髇 Factory: se decidio emplear este patr髇 puesto que los dos cines (``` CinePlaneta ``` y ``` CineStark ```)
-pueden ser implementados como clases hijas por el principio de cohesi髇 adem醩 que heredan sus
+Patr贸n Factory: se decidio emplear este patr贸n puesto que los dos cines (``` CinePlaneta ``` y ``` CineStark ```)
+pueden ser implementados como clases hijas por el principio de cohesi贸n adem谩s que heredan sus
 mismas funciones.
-
-Patr髇 Fachada: este patr髇 lo utilizamos con el objetivo de que el cliente del cine solamente se
-comunique con una clase Gestor (``` GestorGlobal ```) y no con todos los m閠odos m醩 estructurados de este,
+***
+Patr贸n Fachada: este patr贸n lo utilizamos con el objetivo de que el cliente del cine solamente se
+comunique con una clase Gestor (``` GestorGlobal ```) y no con todos los m茅todos m谩s estructurados de este,
 con esto logramos darle al cliente una plataforma sencilla, nos ayuda a reducir las dependencias
 entre padre e hijos.
-
-Patr髇 Composite: finalmente este patr髇 se puede implementar ya que las clases ``` Cine ```, ``` Peliculas ``` y
-``` Funciones ``` se pueden estructurar como 醨bol para lograr realizar alguna operaci髇, por ejemplo el
+***
+Patr贸n Composite: finalmente este patr贸n se puede implementar ya que las clases ``` Cine ```, ``` Peliculas ``` y
+``` Funciones ``` se pueden estructurar como 谩rbol para lograr realizar alguna operaci贸n, por ejemplo el
 monto total de ganancia de las entradas.
