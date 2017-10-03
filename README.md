@@ -9,12 +9,16 @@
 ## Instrucciones
 
 ## Pregunta 1:
-Esta desarrollada en el archivo Pregunta 1.md
+Esta desarrollada en el archivo **Pregunta 1.md**.
 
 ***
 
 ## Pregunta 2:
+El sustento de la pregunta 2 se encuentra en el archivo **Sustento de la Pregunta 2.md**.
+
+El archivo **.py** con las modificaciones se encuentra en **Pregunta 2.py**.
 
 ***
 
 ## Pregunta 3:
+El archivo **.py** se ubica en **Pregunta 3.py**.
